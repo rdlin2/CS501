@@ -4,3 +4,6 @@
 [submodule "homework/colorCard"]
 	path = homework/colorCard
 	url = git@github.com:rdlin2/ColorCard.git
+[submodule "homework/toggleCard"]
+	path = homework/toggleCard
+	url = git@github.com:rdlin2/ToggleCard.git
