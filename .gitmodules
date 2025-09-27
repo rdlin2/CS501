@@ -7,3 +7,6 @@
 [submodule "homework/toggleCard"]
 	path = homework/toggleCard
 	url = git@github.com:rdlin2/ToggleCard.git
+[submodule "homework/KotlinPracticeScreen"]
+	path = homework/KotlinPracticeScreen
+	url = git@github.com:rdlin2/KotlinPracticeScreen.git
