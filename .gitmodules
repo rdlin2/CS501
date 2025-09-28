@@ -10,3 +10,6 @@
 [submodule "homework/KotlinPracticeScreen"]
 	path = homework/KotlinPracticeScreen
 	url = git@github.com:rdlin2/KotlinPracticeScreen.git
+[submodule "homework/RowColumnSplit"]
+	path = homework/RowColumnSplit
+	url = git@github.com:rdlin2/RowColumnSplit.git
