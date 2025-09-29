@@ -13,3 +13,6 @@
 [submodule "homework/RowColumnSplit"]
 	path = homework/RowColumnSplit
 	url = git@github.com:rdlin2/RowColumnSplit.git
+[submodule "homework/LazyColStickyHeader"]
+	path = homework/LazyColStickyHeader
+	url = git@github.com:rdlin2/LazyColStickyHeader.git
