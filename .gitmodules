@@ -16,3 +16,6 @@
 [submodule "homework/LazyColStickyHeader"]
 	path = homework/LazyColStickyHeader
 	url = git@github.com:rdlin2/LazyColStickyHeader.git
+[submodule "homework/ScaffoldBarsAndFab"]
+	path = homework/ScaffoldBarsAndFab
+	url = git@github.com:rdlin2/ScaffoldBarsAndFab.git
