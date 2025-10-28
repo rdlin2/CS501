@@ -22,3 +22,6 @@
 [submodule "homework/ThemedForm"]
 	path = homework/ThemedForm
 	url = git@github.com:rdlin2/ThemedForm.git
+[submodule "homework/lifecycle"]
+	path = homework/lifecycle
+	url = git@github.com:rdlin2/lifecycle.git
