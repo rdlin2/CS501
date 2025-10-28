@@ -25,3 +25,6 @@
 [submodule "homework/lifecycle"]
 	path = homework/lifecycle
 	url = git@github.com:rdlin2/lifecycle.git
+[submodule "homework/counterplusplus"]
+	path = homework/counterplusplus
+	url = git@github.com:rdlin2/counterplusplus.git
