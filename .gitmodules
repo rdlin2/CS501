@@ -28,3 +28,6 @@
 [submodule "homework/counterplusplus"]
 	path = homework/counterplusplus
 	url = git@github.com:rdlin2/counterplusplus.git
+[submodule "homework/whatsfordinner"]
+	path = homework/whatsfordinner
+	url = git@github.com:rdlin2/whatsfordinner.git
